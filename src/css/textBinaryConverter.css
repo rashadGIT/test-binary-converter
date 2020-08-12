@@ -1,0 +1,25 @@
+.boarder{
+  max-width: 1000px;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to bottom, #28b3f6, #2ab3f6, #708ae8);
+  padding: 20px;
+  }
+  
+.box{
+  background: #FFFFFF;
+  color: black;
+  padding: 2rem;
+}
+
+.container{
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap ;
+  align-items: center;
+}
+
+.textBox{
+  width: 100%;
+}
